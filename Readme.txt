@@ -1,4 +1,4 @@
-http://localhost/sapz (frontend)
+
 
 Credential for admin panel :
 
