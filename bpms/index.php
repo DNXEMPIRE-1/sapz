@@ -71,10 +71,12 @@ $_SESSION['aptno']=$result['AptNumber'];
 	          	<img class="one-third align-self-end order-md-last img-fluid" src="images/bg_1.png" alt="">
 		          <div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 		          	<div class="text mt-5">
-		          		<span class="subheading">Beauty Parlour</span>
+		          		<span class="subheading">SapzBeauty Parlour</span>
 			            <h1 class="mb-4">Get Pretty Look</h1>
 			            <p class="mb-4">We pride ourselves on our high quality work and attention to detail. The products we use are of top quality branded products.</p>
-			            
+			            <form action="enroll.php" style="border:0.5px solid #ccc">
+                           <div class="container">
+                                 <h1>Enroll</h1>
 			           
 		            </div>
 		          </div>
@@ -92,7 +94,9 @@ $_SESSION['aptno']=$result['AptNumber'];
 		          		<span class="subheading">Natural Beauty</span>
 			            <h1 class="mb-4">Beauty Salon</h1>
 			            <p class="mb-4">This parlour provides huge facilities with advanced technology equipments and best quality service. Here we offer best treatment that you might have never experienced before.</p>
-			            
+			            <form action="enroll.php" style="border:0.5px solid #ccc">
+                           <div class="container">
+                                 <h1>Enroll</h1>
 			           
 		            </div>
 		          </div>
