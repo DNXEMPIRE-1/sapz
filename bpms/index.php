@@ -68,7 +68,7 @@ $_SESSION['aptno']=$result['AptNumber'];
 	      	<div class="overlay"></div>
 	        <div class="container-fluid p-0">
 	          <div class="row d-md-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
-	          	<img class="one-third align-self-end order-md-last img-fluid" src="images/bg_1.png" alt="">
+	          	<img class="one-third align-self-end order-md-last img-fluid" src="images\sapreenah-20240122-0001-removebg-preview.png" alt="">
 		          <div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 		          	<div class="text mt-5">
 		          		<span class="subheading">SapzBeauty Parlour</span>
@@ -88,7 +88,7 @@ $_SESSION['aptno']=$result['AptNumber'];
 	      	<div class="overlay"></div>
 	        <div class="container-fluid p-0">
 	          <div class="row d-flex no-gutters slider-text align-items-center justify-content-end" data-scrollax-parent="true">
-	          	<img class="one-third align-self-end order-md-last img-fluid" src="images/bg_2.png" alt="">
+	          	<img class="one-third align-self-end order-md-last img-fluid" src="images\sapreenah-20240122-0001-removebg-preview.png" alt="">
 		          <div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 		          	<div class="text mt-5">
 		          		<span class="subheading">Natural Beauty</span>
