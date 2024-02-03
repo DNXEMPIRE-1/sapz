@@ -4,27 +4,27 @@ Welcome to Sapz Beauty Parlour! This project is designed to showcase the digital
 
 ## Features
 
-- **Service Catalog:**
+**Service Catalog:**
   - Browse a comprehensive catalog of beauty services offered.
 
-- **Pricing Information:**
+**Pricing Information:**
   - View pricing details for various beauty treatments.
 
-- **Appointment Booking:**
+**Appointment Booking:**
   - Easily schedule appointments for salon services.
 
-- **Gallery:**
+**Gallery:**
   - Explore a visual gallery showcasing the parlour's work.
 
 ## Technologies Used
 
-- **Frontend:**
+**Frontend:**
   - HTML, CSS, JavaScript
   - [Specify any frontend framework or library used]
 
-- **Backend:**
+**Backend:**
   - mySql
-- **Database:**
+**Database:**
   - mySQL
 
 Credential for admin panel :
