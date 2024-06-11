@@ -23,11 +23,14 @@ Welcome to Sapz Beauty Parlour! This project is designed to showcase the digital
   - [Specify any frontend framework or library used]
 
 **Backend:**
-  - mySql
+  - [Specify backend technologies used]
+
 **Database:**
   - mySQL
 
-Credential for admin panel :
+## Credentials for Admin Panel
 
-Username: admin
-Password: Test@123
+- **Username:** admin
+- **Password:** Test@123
+
+---
