@@ -20,7 +20,7 @@ Welcome to Sapz Beauty Parlour! This project is designed to showcase the digital
 
 **Frontend:**
   - HTML, CSS, JavaScript
-  - php
+  - Php
 
 **Backend:**
   - Php
