@@ -23,7 +23,7 @@ Welcome to Sapz Beauty Parlour! This project is designed to showcase the digital
   - php
 
 **Backend:**
-  - [Specify backend technologies used]
+  - Php
 
 **Database:**
   - mySQL
